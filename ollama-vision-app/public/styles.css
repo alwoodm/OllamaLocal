@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 600px;
+}
+
+#uploadedImage {
+    max-height: 300px;
+    object-fit: contain;
+}
